@@ -2,7 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide: In this first challenge I was able to accomplish the knowledge of CSS, the development of HTML and the usage of Git. This project helped me understand how to properly exploit content to Git from our code factor. Creating multiple locations in which to store our code for further use. This lesson also helped me understand the way multiple users can assist in a project while using Git. Getting to know the fundamentals of an HTML will help me understand the future topics and projects I will be working on this course and possible future life situations as well.
+ This project helped me understand how to properly exploit content to Git from our code factor. Creating multiple locations in which to store our code for further use. This lesson also helped me understand the way multiple users can assist in a project while using Git. Getting to know the fundamentals of an HTML will help me understand the future topics and projects I will be working on this course and possible future life situations as well.
 
 ## Table of Contents (Optional)
 
